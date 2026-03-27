@@ -40,3 +40,6 @@ jobs:
           blackducksca_prComment_enabled: true
           ### FIX PULL REQUEST CREATION
           blackducksca_fixpr_enabled: true
+          detect_search_depth: 5
+          detect_detector_search_continue: true
+          detect_accuracy_required: NONE
